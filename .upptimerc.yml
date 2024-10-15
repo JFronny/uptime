@@ -1,31 +1,57 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: JFronny # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: JfGit
+    url: https://git.frohnmeyer-wds.de/
+  - name: Gitea Helpdesk Issues
+    url: https://git.frohnmeyer-wds.de/Johannes/Gitea-Helpdesk/issues
+  - name: Gitea Helpdesk Issue
+    url: https://git.frohnmeyer-wds.de/Johannes/Gitea-Helpdesk/issues/1
+  - name: YouTrack
+    url: https://youtrack.frohnmeyer-wds.de/form/cc0e428b-e887-4487-a90a-9e12b28ff4a4
+  - name: Gitea Helpdesk
+    url: https://helpdesk.frohnmeyer-wds.de/
+  - name: Woodpecker
+    url: https://ci.frohnmeyer-wds.de/repos/28
+  - name: Pages
+    url: https://pages.frohnmeyer-wds.de/JfMods/Respackopts/
+  - name: Frohnmeyer-Maven
+    url: https://maven.frohnmeyer-wds.de/artifacts/io/gitlab/jfronny/commons-bom/maven-metadata.xml
+  - name: Matrix
+    url: https://matrix.frohnmeyer-wds.de/_matrix/client/versions
+  - name: Johannes
+    url: https://johannes.frohnmeyer-wds.de/schule/sport/praesentation/
+  - name: Lotus
+    url: http://lotus.frohnmeyer-wds.de/feed.rss
+  - name: Nextcloud
+    url: https://nextcloud.frohnmeyer-wds.de/s/5LHM53735gsamFE
+  - name: FreshRSS
+    url: https://rss.frohnmeyer-wds.de/i/?a=about
+  - name: S3
+    url: https://s3.frohnmeyer-wds.de/pages/JfMods/Respackopts/index.html
+  - name: Mail (SMTP)
+    url: frohnmeyer-wds.de
+    port: 25
     check: "tcp-ping"
-    ipv6: true
+  - name: Mail (SMTPS)
+    url: frohnmeyer-wds.de
+    port: 465
+    check: "tcp-ping"
+  - name: Mail (IMAPS)
+    url: frohnmeyer-wds.de
+    port: 993
+    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Uptime
+  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
