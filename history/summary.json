@@ -4,72 +4,80 @@
     "url": "https://git.frohnmeyer-wds.de/",
     "icon": "https://icons.duckduckgo.com/ip3/git.frohnmeyer-wds.de.ico",
     "slug": "jf-git",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 642,
     "timeDay": 708,
     "timeWeek": 642,
     "timeMonth": 642,
     "timeYear": 642,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-17": 3
+    }
   },
   {
     "name": "Gitea Helpdesk Issues",
     "url": "https://git.frohnmeyer-wds.de/Johannes/Gitea-Helpdesk/issues",
     "icon": "https://icons.duckduckgo.com/ip3/git.frohnmeyer-wds.de.ico",
     "slug": "gitea-helpdesk-issues",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 227,
     "timeDay": 244,
     "timeWeek": 227,
     "timeMonth": 227,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-17": 2
+    }
   },
   {
     "name": "Gitea Helpdesk Issue",
     "url": "https://git.frohnmeyer-wds.de/Johannes/Gitea-Helpdesk/issues/1",
     "icon": "https://icons.duckduckgo.com/ip3/git.frohnmeyer-wds.de.ico",
     "slug": "gitea-helpdesk-issue",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 230,
     "timeDay": 248,
     "timeWeek": 230,
     "timeMonth": 230,
     "timeYear": 230,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-17": 2
+    }
   },
   {
     "name": "YouTrack",
     "url": "https://youtrack.frohnmeyer-wds.de/form/cc0e428b-e887-4487-a90a-9e12b28ff4a4",
     "icon": "https://icons.duckduckgo.com/ip3/youtrack.frohnmeyer-wds.de.ico",
     "slug": "you-track",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 539,
     "timeDay": 632,
     "timeWeek": 539,
     "timeMonth": 539,
     "timeYear": 539,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-17": 1
+    }
   },
   {
     "name": "Gitea Helpdesk",
