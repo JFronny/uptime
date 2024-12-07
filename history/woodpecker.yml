@@ -1,7 +1,7 @@
 url: https://ci.frohnmeyer-wds.de/repos/28
-status: down
-code: 502
-responseTime: 602
-lastUpdated: 2024-12-06T23:09:28.712Z
+status: up
+code: 200
+responseTime: 752
+lastUpdated: 2024-12-07T20:23:34.152Z
 startTime: 2024-10-15T13:47:14.514Z
 generator: Upptime <https://github.com/upptime/upptime>
