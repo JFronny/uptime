@@ -25,15 +25,16 @@ jobs:
   release:
     name: Generate graphs
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref }}
-          token: ${{ secrets.GH_PAT || github.token }}
       - name: Generate graphs
         uses: JFronny/uptime-monitor@master
         with:
           command: "graphs"
         env:
-          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+          GH_PAT: ${{ github.token }}
