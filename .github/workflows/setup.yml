@@ -45,7 +45,7 @@ jobs:
         with:
           command: "update-template"
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+          GH_PAT: ${{ secrets.USER_PAT }}
       - name: Update response time
         uses: JFronny/uptime-monitor@master
         with:
