@@ -26,6 +26,10 @@ jobs:
   release:
     name: Setup Upptime
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -33,20 +37,20 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Update template
-        uses: upptime/uptime-monitor@v1.38.0
+        uses: JFronny/uptime-monitor@master
         with:
           command: "update-template"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
       - name: Update response time
-        uses: upptime/uptime-monitor@v1.38.0
+        uses: JFronny/uptime-monitor@master
         with:
           command: "response-time"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
       - name: Update summary in README
-        uses: upptime/uptime-monitor@v1.38.0
+        uses: JFronny/uptime-monitor@master
         with:
           command: "readme"
         env:
@@ -57,16 +61,16 @@ jobs:
           workflow: Graphs CI
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Generate site
-        uses: upptime/uptime-monitor@v1.38.0
+        uses: JFronny/uptime-monitor@master
         with:
           command: "site"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
-      - uses: peaceiris/actions-gh-pages@v4
-        name: GitHub Pages Deploy
+      - uses: actions/configure-pages@v5
+        name: Setup Pages
+      - uses: actions/upload-pages-artifact@v3
+        name: Upload Pages artifact
         with:
-          github_token: ${{ secrets.GH_PAT || github.token }}
-          publish_dir: "site/status-page/__sapper__/export/"
-          force_orphan: "false"
-          user_name: "Upptime Bot"
-          user_email: "73812536+upptime-bot@users.noreply.github.com"
+          path: "site/status-page/__sapper__/export/"
+      - uses: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
