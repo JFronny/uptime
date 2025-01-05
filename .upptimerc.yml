@@ -38,11 +38,11 @@ sites:
   - name: Mail (SMTPS)
     url: frohnmeyer-wds.de
     port: 465
-    check: "tcp-ping"
+    check: "ssl"
   - name: Mail (IMAPS)
     url: frohnmeyer-wds.de
     port: 993
-    check: "tcp-ping"
+    check: "ssl"
 
 assignees:
   - JFronny
