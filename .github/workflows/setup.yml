@@ -26,6 +26,7 @@ jobs:
   release:
     name: Setup Upptime
     runs-on: ubuntu-latest
+    
     permissions:
       contents: read
       pages: write
@@ -33,6 +34,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -78,3 +80,4 @@ jobs:
           path: "site/status-page/__sapper__/export/"
       - uses: actions/deploy-pages@v4
         name: Deploy to GitHub Pages
+    
