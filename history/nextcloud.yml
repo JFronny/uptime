@@ -1,7 +1,7 @@
 url: https://nextcloud.frohnmeyer-wds.de/s/5LHM53735gsamFE
-status: up
-code: 200
-responseTime: 596
-lastUpdated: 2025-01-17T23:08:38.622Z
+status: down
+code: 500
+responseTime: 463
+lastUpdated: 2025-01-18T15:21:45.011Z
 startTime: 2024-10-15T13:47:20.461Z
 generator: Upptime <https://github.com/upptime/upptime>
