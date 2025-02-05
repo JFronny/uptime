@@ -1,7 +1,7 @@
 url: https://rss.frohnmeyer-wds.de/i/?a=about
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-05T02:31:17.896Z
+status: up
+code: 200
+responseTime: 661
+lastUpdated: 2025-02-05T03:00:40.085Z
 startTime: 2024-10-15T13:47:21.303Z
 generator: Upptime <https://github.com/upptime/upptime>
