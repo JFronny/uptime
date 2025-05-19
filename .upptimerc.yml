@@ -24,7 +24,7 @@ sites:
   - name: Johannes
     url: https://johannes.frohnmeyer-wds.de/schule/sport/praesentation/
   - name: Lotus
-    url: http://lotus.frohnmeyer-wds.de/feed.rss
+    url: https://lotus.frohnmeyer-wds.de/feed.rss
   - name: Nextcloud
     url: https://nextcloud.frohnmeyer-wds.de/s/5LHM53735gsamFE
   - name: FreshRSS
