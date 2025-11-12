@@ -1,7 +1,7 @@
 url: https://git.frohnmeyer-wds.de/JfMods/VersionChanger/pulls
-status: up
-code: 200
-responseTime: 215
-lastUpdated: 2025-11-11T23:09:51.785Z
+status: down
+code: 502
+responseTime: 325
+lastUpdated: 2025-11-12T19:41:10.775Z
 startTime: 2025-07-13T10:23:49.217Z
 generator: Upptime <https://github.com/upptime/upptime>
