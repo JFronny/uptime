@@ -1,7 +1,7 @@
 url: https://git.frohnmeyer-wds.de/Johannes/Gitea-Helpdesk/issues
-status: down
-code: 502
-responseTime: 326
-lastUpdated: 2025-11-12T19:41:04.374Z
+status: up
+code: 200
+responseTime: 500
+lastUpdated: 2025-11-12T20:37:45.540Z
 startTime: 2024-10-15T13:47:12.137Z
 generator: Upptime <https://github.com/upptime/upptime>
