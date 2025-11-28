@@ -1,7 +1,7 @@
 url: https://lotus.frohnmeyer-wds.de/feed.rss
-status: down
-code: 500
-responseTime: 6353
-lastUpdated: 2025-11-28T09:30:46.641Z
+status: up
+code: 200
+responseTime: 1154
+lastUpdated: 2025-11-28T09:45:03.300Z
 startTime: 2024-10-15T13:47:18.571Z
 generator: Upptime <https://github.com/upptime/upptime>
