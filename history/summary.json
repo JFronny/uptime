@@ -635,18 +635,19 @@
     "url": "https://lotus.frohnmeyer-wds.de/feed.rss",
     "icon": "https://icons.duckduckgo.com/ip3/lotus.frohnmeyer-wds.de.ico",
     "slug": "lotus",
-    "status": "up",
+    "status": "down",
     "uptime": "97.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.70%",
-    "time": 1647,
-    "timeDay": 733,
-    "timeWeek": 749,
-    "timeMonth": 821,
-    "timeYear": 1570,
+    "time": 1653,
+    "timeDay": 3252,
+    "timeWeek": 1377,
+    "timeMonth": 976,
+    "timeYear": 1577,
     "dailyMinutesDown": {
+      "2026-02-27": 1,
       "2026-01-26": 777,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -708,8 +709,7 @@
       "2025-05-03": 16,
       "2025-05-01": 56,
       "2025-04-29": 21,
-      "2025-04-25": 47,
-      "2025-04-15": 38
+      "2025-04-25": 47
     }
   },
   {
