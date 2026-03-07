@@ -31,8 +31,6 @@ sites:
     url: https://nextcloud.frohnmeyer-wds.de/s/5LHM53735gsamFE
   - name: FreshRSS
     url: https://rss.frohnmeyer-wds.de/i/?a=about
-  - name: S3
-    url: https://s3.frohnmeyer-wds.de/pages/JfMods/Respackopts/index.html
   - name: Mail (SMTP)
     url: frohnmeyer-wds.de
     port: 25
