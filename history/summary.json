@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.frohnmeyer-wds.de.ico",
     "slug": "jf-git",
     "status": "down",
-    "uptime": "98.63%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "98.82%",
+    "uptime": "98.61%",
+    "uptimeDay": "92.87%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "98.81%",
     "time": 1196,
     "timeDay": 1083,
     "timeWeek": 1331,
@@ -58,7 +58,7 @@
       "2026-06-25": 244,
       "2026-07-23": 199,
       "2026-08-01": 200,
-      "2026-08-04": 3
+      "2026-08-04": 103
     }
   },
   {
