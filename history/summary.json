@@ -4,16 +4,16 @@
     "url": "https://git.frohnmeyer-wds.de/",
     "icon": "https://icons.duckduckgo.com/ip3/git.frohnmeyer-wds.de.ico",
     "slug": "jf-git",
-    "status": "down",
-    "uptime": "98.60%",
-    "uptimeDay": "85.95%",
-    "uptimeWeek": "95.03%",
-    "uptimeMonth": "98.40%",
-    "uptimeYear": "98.77%",
-    "time": 1197,
+    "status": "up",
+    "uptime": "98.59%",
+    "uptimeDay": "85.97%",
+    "uptimeWeek": "94.14%",
+    "uptimeMonth": "98.20%",
+    "uptimeYear": "98.75%",
+    "time": 1198,
     "timeDay": 1029,
-    "timeWeek": 1251,
-    "timeMonth": 1280,
+    "timeWeek": 1229,
+    "timeMonth": 1273,
     "timeYear": 1299,
     "dailyMinutesDown": {
       "2025-08-13": 82,
@@ -59,7 +59,7 @@
       "2026-07-23": 199,
       "2026-08-01": 200,
       "2026-08-04": 196,
-      "2026-08-05": 106
+      "2026-08-05": 195
     }
   },
   {
@@ -67,16 +67,16 @@
     "url": "https://git.frohnmeyer-wds.de/Johannes/Gitea-Helpdesk/issues",
     "icon": "https://icons.duckduckgo.com/ip3/git.frohnmeyer-wds.de.ico",
     "slug": "gitea-helpdesk-issues",
-    "status": "down",
-    "uptime": "98.69%",
-    "uptimeDay": "93.00%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "98.93%",
-    "time": 435,
-    "timeDay": 916,
-    "timeWeek": 1175,
-    "timeMonth": 1158,
+    "status": "up",
+    "uptime": "98.68%",
+    "uptimeDay": "86.80%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "98.91%",
+    "time": 436,
+    "timeDay": 882,
+    "timeWeek": 1134,
+    "timeMonth": 1148,
     "timeYear": 489,
     "dailyMinutesDown": {
       "2025-08-13": 82,
@@ -118,7 +118,7 @@
       "2026-06-07": 278,
       "2026-06-10": 265,
       "2026-06-17": 309,
-      "2026-08-05": 101
+      "2026-08-05": 190
     }
   },
   {
