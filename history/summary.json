@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.frohnmeyer-wds.de.ico",
     "slug": "jf-git",
     "status": "up",
-    "uptime": "98.64%",
+    "uptime": "98.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
@@ -13,8 +13,8 @@
     "time": 1218,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1249,
-    "timeYear": 1295,
+    "timeMonth": 1238,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2025-09-10": 75,
       "2025-09-11": 80,
@@ -74,7 +74,7 @@
     "time": 476,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1095,
+    "timeMonth": 1101,
     "timeYear": 540,
     "dailyMinutesDown": {
       "2025-09-10": 75,
@@ -130,7 +130,7 @@
     "time": 494,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1197,
+    "timeMonth": 1206,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2025-09-10": 74,
@@ -171,7 +171,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.frohnmeyer-wds.de.ico",
     "slug": "gitea-modified-p-rs",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -179,7 +179,7 @@
     "time": 405,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1047,
+    "timeMonth": 1058,
     "timeYear": 431,
     "dailyMinutesDown": {
       "2025-09-10": 74,
@@ -228,8 +228,8 @@
     "time": 632,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 591,
-    "timeYear": 630,
+    "timeMonth": 598,
+    "timeYear": 629,
     "dailyMinutesDown": {
       "2025-09-10": 73,
       "2025-09-11": 78,
@@ -273,8 +273,8 @@
     "time": 602,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 565,
-    "timeYear": 592,
+    "timeMonth": 571,
+    "timeYear": 591,
     "dailyMinutesDown": {
       "2025-09-10": 72,
       "2025-09-11": 77,
@@ -319,7 +319,7 @@
     "time": 1405,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 2084,
+    "timeMonth": 2011,
     "timeYear": 1732,
     "dailyMinutesDown": {
       "2025-09-10": 72,
@@ -364,7 +364,7 @@
     "time": 573,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 543,
+    "timeMonth": 548,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2025-09-10": 71,
@@ -405,7 +405,7 @@
     "time": 538,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 538,
+    "timeMonth": 543,
     "timeYear": 536,
     "dailyMinutesDown": {
       "2025-09-10": 71,
@@ -447,7 +447,7 @@
     "time": 661,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 625,
+    "timeMonth": 628,
     "timeYear": 659,
     "dailyMinutesDown": {
       "2025-09-10": 70,
@@ -485,7 +485,7 @@
     "time": 1344,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 908,
+    "timeMonth": 910,
     "timeYear": 1234,
     "dailyMinutesDown": {
       "2025-09-09": 56,
@@ -559,7 +559,7 @@
     "time": 735,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 689,
+    "timeMonth": 693,
     "timeYear": 719,
     "dailyMinutesDown": {
       "2025-09-10": 69,
@@ -601,7 +601,7 @@
     "time": 627,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 532,
+    "timeMonth": 535,
     "timeYear": 610,
     "dailyMinutesDown": {
       "2025-09-10": 69,
@@ -635,7 +635,7 @@
     "time": 125,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 136,
+    "timeMonth": 127,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2025-09-21": 14,
@@ -661,7 +661,7 @@
     "time": 417,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 423,
+    "timeMonth": 428,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2025-09-21": 13,
@@ -688,7 +688,7 @@
     "time": 282,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 300,
+    "timeMonth": 299,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2025-09-21": 11,
