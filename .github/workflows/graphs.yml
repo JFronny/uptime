@@ -35,6 +35,10 @@ jobs:
         uses: actions/checkout@v6
         with:
           ref: ${{ github.head_ref || github.ref_name }}
+      - name: Setup Node.js for graphs
+        uses: actions/setup-node@v6
+        with:
+          node-version: "20"
       - name: Generate graphs
         uses: JFronny/uptime-monitor@master
         with:
