@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.frohnmeyer-wds.de.ico",
     "slug": "jf-git",
     "status": "down",
-    "uptime": "98.73%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "98.85%",
+    "uptime": "98.71%",
+    "uptimeDay": "86.11%",
+    "uptimeWeek": "98.02%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.82%",
     "time": 1316,
     "timeDay": 0,
     "timeWeek": 1577,
-    "timeMonth": 1595,
-    "timeYear": 1319,
+    "timeMonth": 1589,
+    "timeYear": 1317,
     "dailyMinutesDown": {
       "2025-11-12": 57,
       "2025-11-15": 46,
@@ -46,7 +46,7 @@
       "2026-08-17": 54,
       "2026-08-20": 54,
       "2026-10-27": 279,
-      "2026-11-09": 15
+      "2026-11-09": 200
     }
   },
   {
@@ -55,16 +55,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.frohnmeyer-wds.de.ico",
     "slug": "gitea-helpdesk-issues",
     "status": "down",
-    "uptime": "98.82%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.03%",
+    "uptime": "98.80%",
+    "uptimeDay": "86.45%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "99.00%",
     "time": 592,
     "timeDay": 0,
     "timeWeek": 1258,
-    "timeMonth": 1229,
-    "timeYear": 644,
+    "timeMonth": 1230,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2025-11-12": 57,
       "2025-11-15": 46,
@@ -91,7 +91,7 @@
       "2026-08-05": 190,
       "2026-08-17": 49,
       "2026-10-27": 275,
-      "2026-11-09": 10
+      "2026-11-09": 195
     }
   },
   {
@@ -100,15 +100,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.frohnmeyer-wds.de.ico",
     "slug": "gitea-helpdesk-issue",
     "status": "down",
-    "uptime": "98.93%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.20%",
+    "uptime": "98.92%",
+    "uptimeDay": "86.79%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "99.17%",
     "time": 621,
     "timeDay": 0,
     "timeWeek": 1285,
-    "timeMonth": 1280,
+    "timeMonth": 1274,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2025-11-12": 57,
@@ -130,7 +130,7 @@
       "2026-06-10": 265,
       "2026-06-17": 308,
       "2026-10-27": 270,
-      "2026-11-09": 5
+      "2026-11-09": 190
     }
   },
   {
@@ -139,15 +139,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.frohnmeyer-wds.de.ico",
     "slug": "gitea-modified-p-rs",
     "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.21%",
+    "uptime": "99.14%",
+    "uptimeDay": "87.12%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "99.17%",
     "time": 480,
     "timeDay": 0,
     "timeWeek": 1183,
-    "timeMonth": 1150,
+    "timeMonth": 1145,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2025-11-12": 57,
@@ -169,7 +169,7 @@
       "2026-06-10": 264,
       "2026-06-17": 308,
       "2026-10-27": 265,
-      "2026-11-09": 1
+      "2026-11-09": 185
     }
   },
   {
@@ -186,7 +186,7 @@
     "time": 646,
     "timeDay": 948,
     "timeWeek": 846,
-    "timeMonth": 815,
+    "timeMonth": 820,
     "timeYear": 651,
     "dailyMinutesDown": {
       "2025-11-21": 15,
@@ -221,7 +221,7 @@
     "time": 609,
     "timeDay": 1010,
     "timeWeek": 750,
-    "timeMonth": 751,
+    "timeMonth": 753,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2025-11-21": 14,
@@ -259,7 +259,7 @@
     "time": 1687,
     "timeDay": 2553,
     "timeWeek": 2300,
-    "timeMonth": 2332,
+    "timeMonth": 2335,
     "timeYear": 1830,
     "dailyMinutesDown": {
       "2025-11-21": 14,
@@ -295,7 +295,7 @@
     "time": 582,
     "timeDay": 651,
     "timeWeek": 729,
-    "timeMonth": 709,
+    "timeMonth": 715,
     "timeYear": 572,
     "dailyMinutesDown": {
       "2025-11-21": 13,
@@ -328,7 +328,7 @@
     "time": 555,
     "timeDay": 801,
     "timeWeek": 715,
-    "timeMonth": 739,
+    "timeMonth": 746,
     "timeYear": 565,
     "dailyMinutesDown": {
       "2025-11-21": 13,
@@ -363,7 +363,7 @@
     "time": 671,
     "timeDay": 900,
     "timeWeek": 770,
-    "timeMonth": 779,
+    "timeMonth": 782,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2025-11-21": 12,
@@ -451,7 +451,7 @@
     "time": 732,
     "timeDay": 1040,
     "timeWeek": 853,
-    "timeMonth": 865,
+    "timeMonth": 868,
     "timeYear": 725,
     "dailyMinutesDown": {
       "2025-11-21": 11,
@@ -486,7 +486,7 @@
     "time": 632,
     "timeDay": 644,
     "timeWeek": 597,
-    "timeMonth": 640,
+    "timeMonth": 643,
     "timeYear": 563,
     "dailyMinutesDown": {
       "2025-11-21": 11,
@@ -539,7 +539,7 @@
     "time": 421,
     "timeDay": 675,
     "timeWeek": 479,
-    "timeMonth": 467,
+    "timeMonth": 468,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2025-11-21": 8,
@@ -563,7 +563,7 @@
     "time": 286,
     "timeDay": 359,
     "timeWeek": 308,
-    "timeMonth": 321,
+    "timeMonth": 322,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2025-11-21": 6,
