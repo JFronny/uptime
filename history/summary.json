@@ -499,11 +499,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp",
     "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "90.42%",
-    "uptimeMonth": "97.80%",
-    "uptimeYear": "99.54%",
+    "uptime": "99.49%",
+    "uptimeDay": "89.75%",
+    "uptimeWeek": "88.97%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "99.51%",
     "time": 126,
     "timeDay": 0,
     "timeWeek": 122,
@@ -519,7 +519,7 @@
       "2026-11-13": 151,
       "2026-11-15": 270,
       "2026-11-16": 35,
-      "2026-11-17": 1
+      "2026-11-17": 148
     }
   },
   {
