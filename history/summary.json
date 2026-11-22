@@ -13,8 +13,8 @@
     "time": 1325,
     "timeDay": 1597,
     "timeWeek": 1496,
-    "timeMonth": 1546,
-    "timeYear": 1324,
+    "timeMonth": 1550,
+    "timeYear": 1325,
     "dailyMinutesDown": {
       "2025-11-30": 80,
       "2025-12-12": 40,
@@ -60,8 +60,8 @@
     "time": 614,
     "timeDay": 1181,
     "timeWeek": 1182,
-    "timeMonth": 1246,
-    "timeYear": 676,
+    "timeMonth": 1255,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2025-11-30": 79,
       "2025-12-12": 39,
@@ -102,8 +102,8 @@
     "time": 644,
     "timeDay": 1068,
     "timeWeek": 1235,
-    "timeMonth": 1283,
-    "timeYear": 715,
+    "timeMonth": 1297,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2025-11-30": 79,
       "2025-12-12": 39,
@@ -139,8 +139,8 @@
     "time": 504,
     "timeDay": 1062,
     "timeWeek": 1120,
-    "timeMonth": 1184,
-    "timeYear": 578,
+    "timeMonth": 1198,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2025-11-30": 78,
       "2025-12-12": 38,
@@ -176,7 +176,7 @@
     "time": 650,
     "timeDay": 652,
     "timeWeek": 849,
-    "timeMonth": 853,
+    "timeMonth": 851,
     "timeYear": 659,
     "dailyMinutesDown": {
       "2025-11-30": 77,
@@ -210,8 +210,8 @@
     "time": 612,
     "timeDay": 647,
     "timeWeek": 711,
-    "timeMonth": 761,
-    "timeYear": 621,
+    "timeMonth": 773,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2025-11-30": 77,
       "2025-12-12": 37,
@@ -247,8 +247,8 @@
     "time": 1722,
     "timeDay": 2056,
     "timeWeek": 2225,
-    "timeMonth": 2371,
-    "timeYear": 1853,
+    "timeMonth": 2400,
+    "timeYear": 1854,
     "dailyMinutesDown": {
       "2025-11-30": 76,
       "2025-12-12": 36,
@@ -282,7 +282,7 @@
     "time": 583,
     "timeDay": 870,
     "timeWeek": 718,
-    "timeMonth": 727,
+    "timeMonth": 738,
     "timeYear": 580,
     "dailyMinutesDown": {
       "2025-11-30": 76,
@@ -314,8 +314,8 @@
     "time": 558,
     "timeDay": 745,
     "timeWeek": 701,
-    "timeMonth": 754,
-    "timeYear": 574,
+    "timeMonth": 765,
+    "timeYear": 575,
     "dailyMinutesDown": {
       "2025-11-30": 75,
       "2025-12-12": 35,
@@ -348,7 +348,7 @@
     "time": 676,
     "timeDay": 820,
     "timeWeek": 818,
-    "timeMonth": 810,
+    "timeMonth": 814,
     "timeYear": 689,
     "dailyMinutesDown": {
       "2025-11-30": 75,
@@ -378,8 +378,8 @@
     "time": 1189,
     "timeDay": 649,
     "timeWeek": 1011,
-    "timeMonth": 992,
-    "timeYear": 1168,
+    "timeMonth": 1001,
+    "timeYear": 1169,
     "dailyMinutesDown": {
       "2025-11-28": 14,
       "2025-11-30": 75,
@@ -430,7 +430,7 @@
     "time": 734,
     "timeDay": 881,
     "timeWeek": 812,
-    "timeMonth": 831,
+    "timeMonth": 840,
     "timeYear": 728,
     "dailyMinutesDown": {
       "2025-12-12": 34,
@@ -464,7 +464,7 @@
     "time": 636,
     "timeDay": 644,
     "timeWeek": 662,
-    "timeMonth": 640,
+    "timeMonth": 647,
     "timeYear": 558,
     "dailyMinutesDown": {
       "2025-12-12": 34,
@@ -483,16 +483,16 @@
     "url": "frohnmeyer-wds.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp",
-    "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "92.69%",
-    "uptimeWeek": "92.39%",
-    "uptimeMonth": "96.74%",
-    "uptimeYear": "99.45%",
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "76.75%",
+    "uptimeWeek": "90.11%",
+    "uptimeMonth": "96.22%",
+    "uptimeYear": "99.41%",
     "time": 126,
-    "timeDay": 126,
-    "timeWeek": 122,
-    "timeMonth": 130,
+    "timeDay": 134,
+    "timeWeek": 124,
+    "timeMonth": 131,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2025-12-12": 32,
@@ -504,7 +504,8 @@
       "2026-11-15": 270,
       "2026-11-16": 35,
       "2026-11-17": 357,
-      "2026-11-21": 106
+      "2026-11-21": 230,
+      "2026-11-22": 105
     }
   },
   {
@@ -521,7 +522,7 @@
     "time": 422,
     "timeDay": 486,
     "timeWeek": 468,
-    "timeMonth": 469,
+    "timeMonth": 474,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2025-12-12": 31,
@@ -544,7 +545,7 @@
     "time": 287,
     "timeDay": 306,
     "timeWeek": 308,
-    "timeMonth": 318,
+    "timeMonth": 321,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2025-12-12": 29,
